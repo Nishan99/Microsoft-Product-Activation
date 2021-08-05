@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MicrosoftProduct
+comment0.text=\r\n\ a\ small\ software\ to\ activate\ license\ of\ a\ microsoft\ products.\r\n\ @author\ (Nishan\ Paudel)\r\n\ @version\ (0.1)\r\n
+comment1.params=ProductNumber\ Product_Name
+comment1.target=MicrosoftProduct(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getProductNo()
+comment3.params=
+comment3.target=java.lang.String\ getProductName()
+comment4.params=
+comment4.target=java.lang.String\ getActivationKey()
+comment5.params=
+comment5.target=float\ getPriceOfProduct()
+comment6.params=Activate_key
+comment6.target=void\ setActivationKey(java.lang.String)
+comment7.params=ProductPrice
+comment7.target=void\ setProductPrice(float)
+comment8.params=
+comment8.target=void\ DisplayProduct()
+numComments=9
